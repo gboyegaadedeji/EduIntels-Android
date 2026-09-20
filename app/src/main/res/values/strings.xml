@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EduIntels</string>
+    <string name="loading">Opening EduIntels…</string>
+    <string name="offline_title">You’re offline</string>
+    <string name="offline_message">Reconnect to the internet and try again.</string>
+    <string name="retry">Retry</string>
+</resources>
