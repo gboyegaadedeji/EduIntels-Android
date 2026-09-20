@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Shield -->
+    <path
+        android:fillColor="#0B3E78"
+        android:pathData="M54,7 L83,16 L96,28 L92,70 L78,85 L54,102 L30,85 L16,70 L12,28 L25,16 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,15 L78,22 L88,31 L84,65 L72,77 L54,91 L36,77 L24,65 L20,31 L30,22 Z" />
+
+    <!-- Cyan base accent -->
+    <path
+        android:fillColor="#2FA6D6"
+        android:pathData="M33,77 L54,95 L75,77 L71,85 L54,100 L37,85 Z" />
+
+    <!-- Inner book panel -->
+    <path
+        android:fillColor="#EEF6FC"
+        android:pathData="M29,30 L79,30 L79,70 L29,70 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,33 L52,33 L52,67 L32,67 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,33 L76,33 L76,67 L56,67 Z" />
+
+    <!-- E -->
+    <path
+        android:fillColor="#0B3E78"
+        android:pathData="M34,36 L50,36 L50,41 L40,41 L40,47 L49,47 L49,52 L40,52 L40,59 L50,59 L50,64 L34,64 Z" />
+
+    <!-- i -->
+    <path
+        android:fillColor="#2FA6D6"
+        android:pathData="M53,44 L59,44 L59,64 L53,64 Z" />
+    <path
+        android:fillColor="#2FA6D6"
+        android:pathData="M53,36 L59,36 L59,42 L53,42 Z" />
+
+    <!-- Page / data lines -->
+    <path
+        android:strokeColor="#164E88"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="round"
+        android:pathData="M62,41 L72,39 M62,48 L70,46 M62,55 L73,53 M62,62 L70,60" />
+    <path
+        android:fillColor="#55C0E0"
+        android:pathData="M75,37 L78,37 L78,40 L75,40 Z M73,44 L76,44 L76,47 L73,47 Z M76,51 L79,51 L79,54 L76,54 Z M73,58 L76,58 L76,61 L73,61 Z" />
+</vector>
